@@ -1,5 +1,6 @@
 // story_brain.dart
 // Manages all scenes and story logic.
+// Updated: April 29, 2026 — refined scene navigation and story flow.
 
 import 'scene.dart';
 
