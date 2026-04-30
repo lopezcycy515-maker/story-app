@@ -1,3 +1,7 @@
+// main.dart
+// UI entry point — Isang Araw Bilang Freshman
+// Updated: April 30, 2026 — finalized UI, audio, and navigation.
+
 import "package:flutter/material.dart";
 import "package:audioplayers/audioplayers.dart";
 import "story_brain.dart";
